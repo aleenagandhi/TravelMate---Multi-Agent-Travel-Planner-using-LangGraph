@@ -1,4 +1,4 @@
-# TravelMate---Multi-Agent-Travel-Planner-using-LangGraph
+# TravelBuddy---Multi-Agent-Travel-Planner-using-LangGraph
 
 
 ## How to run?
